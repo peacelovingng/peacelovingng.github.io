@@ -1,0 +1,921 @@
+@font-face{
+    src:url("../fonts/gibson.ttf");
+    font-family: "GB";
+}
+@font-face{
+    src:url("../fonts/SFProDisplay-Thin.ttf");
+    font-family: "SF";
+}
+@font-face{
+    src:url("../fonts/SFProDisplay-Regular.ttf");
+    font-family: "SF-2";
+}
+.the-header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #1E558C;
+    font-family: "SF-2";
+    color: white;
+
+}
+.send-message-btn:hover{
+    background-color: #1E558C;
+
+}
+.send-message-btn{
+        width: 130px;
+        height: 50px;
+        border-radius: 10px;
+        font-family: "SF";
+        color: white;
+        border: none;
+        background-color: grey;
+    }
+    .definition{
+            font-family:"SF-2";
+            font-size: 30px;
+        }
+.c{
+    background-color:#8989CA;
+}
+.resources-button:hover{
+    background-color: #1E558C;
+
+}
+.resources-button{
+    width: 120px;
+    height: 45px;
+    color: white;
+    background-color: grey;
+    font-family: "SF";
+    border-radius: 8px;
+    border: none;
+    
+}
+.lame{
+    padding-top: 100px;
+    padding-bottom: 130px;
+    
+    background-color: #F8F9FA;
+    color: black;
+    text-align: center;
+    font-family: "GB";
+}
+.lame-2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    font-family: "GB";
+    font-size: 50px;
+    text-align: center;
+}
+.datascience-img{
+    width:50px;
+    height: 50px;
+}
+.head-p{
+    font-family: "GB";
+    font-size: 20px;
+}
+.the-body{
+    font-family: "GB";
+}
+.mybutton11{
+    text-decoration:none;
+}
+.major-1{
+    border: none;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "SF-2";
+}
+.menu{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 120px;
+}
+
+.major-1:hover{
+    color: #1E558C;
+    -webkit-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
+       -moz-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
+       box-shadow: -1px 9px 20px -12px  rgba(0,0,blue,alpha);
+ 
+}
+.the-button:hover{
+background-color: #1E558C;
+
+}
+.major-2:hover{
+    border: none;
+    color: #1E558C;
+    background-color: aliceblue;
+text-decoration-line: none;
+
+    -webkit-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
+       -moz-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
+       box-shadow: -1px 9px 20px -12px  rgba(0,0,blue,alpha);
+ 
+}
+.header-aboutme{
+    font-family: "GB";
+    
+}
+
+.mm{
+    font-size: 19px;
+    font-family: "GB";
+}
+.menu1{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 165px;
+}
+.image-1{
+    width: 80px;
+    height: 80px;
+}
+ul-1{
+    font-family: "SF-2";
+}
+.menu2{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 190px;
+}
+.my{
+    margin-bottom: 20px;
+}
+    .menu3{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 80px;
+}
+.aboutmetext{
+    color: grey;
+    
+}
+.the-button{
+    width: 115px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+
+    background-color:  grey;
+font-family: "SF";
+
+}
+.my-artificial{
+
+    padding: 20px;
+    
+}
+.ppp{
+
+    border-radius: 16px;
+   padding: 30px;
+    box-shadow:-1px 9px 20px -12px  rgba(0,0,0,0.75) ;
+ }
+.my-footers{
+    color: white;
+    font-size: 15px;
+}
+.co{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: black;
+}
+.paragraph-11{
+    font-family: "SF-2";
+    font-size: 17px;
+    
+}
+.social{
+    width: 20px;
+    height: 20px;
+}
+.menu4{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 140px;
+}
+.subscribe-1{
+    width: 250px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    padding-left : 7px;
+}
+.subscribe-2{
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    border:none;
+    text-align: center;
+    background-color: #1E558C;
+    color: white;
+    
+    
+}
+.neural-photo{
+    width: 900px;
+    height: 350px;
+}
+.my-photo{
+    width: 400px;
+    height: 400px;
+}
+.menu5{
+padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    width: 250px;
+}
+.bold-1{
+    color: #1E558C;
+}
+.p1{
+    font-size: 40px;
+    font-family: "GB";
+    color: grey;
+}
+.text-1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.note1{
+    font-family: "GB";
+}
+.links{
+    font-family: "SF-2";
+}
+.grey-color2{
+    color: #245A8E;
+
+    font-family: "SF-2";
+}
+.links-1{
+    color: black;
+    
+}
+.header-y{
+    background-color: #F2F2F2;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.p2{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 125px;
+    color: grey;
+}
+.white-text{
+    color: white;
+}
+.p3{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 210px;
+    color: grey;
+    
+}
+.back-1{
+    padding-top: 30px;
+    background-color: black;
+    padding-bottom: 20px;
+}
+.contact-padding{
+    padding-bottom: 40px;
+}
+.p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 20px;
+}
+.card-text{
+    font-family: "GB";
+    font-size: 15px;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+.p5{
+
+    font-family: "SF-2";
+    font-size: 20px;
+}
+.pq{
+    text-align: center;
+       background-color: #F8F9FA;
+}
+.contact-info{
+    padding-bottom: 15px;
+    font-family: "GB";
+}
+.label1{
+    font-family: "SF-2";    
+    }
+
+.about-home{
+    padding-top: 40px;
+    padding-bottom:40px;
+}
+   @media screen and (min-width: 320px){
+       .yo{
+           margin-bottom: 20px;
+       }
+       .my-photo-1{
+         width: 250px;
+           height: 250px;
+       
+       }
+       .margin-1{
+           margin-bottom: 20px;
+       }
+       .card{
+           width: 16rem;
+           padding-top: 30px;
+           padding-bottom: 30px;
+       }
+       .my-iframe{
+           width: 260px;
+           height: 440px;
+           border-radius: 10px;
+       }
+       .my-photo{
+           width: 280px;
+           height: 280px;
+       }
+    
+.neural-photo{
+    width: 250px;
+    height: 150px;
+}
+       .qk{
+           font-size: 13px;
+       }
+
+       .p1{
+    font-size: 24px;
+    font-family: "GB";
+    color: grey;
+}
+           .p2{
+    font-size:24px;
+    font-family: "GB";
+    padding-left: 72px;
+    color: grey;
+}
+    .p3{
+    font-size: 24px;
+    font-family: "GB";
+    padding-left: 125px;
+    color: grey;
+    
+}
+           .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        color: #1E558C;
+            font-family:"GB";
+            font-size: 30px;
+        }
+         .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 19px;
+}
+}
+@media screen and (min-width: 360px){
+
+    .yo{
+        margin-bottom: 20px;
+    }
+    .margin-1{
+           margin-bottom: 20px;
+       }
+    .card{
+           width: 18.5rem;
+         padding-top: 30px;
+           padding-bottom: 30px;
+       }
+      .my-photo-1{
+         width: 300px;
+           height: 300px;
+       }
+    .my-photo{
+    width: 320px;
+    height: 320px;
+}
+        .my-iframe{
+           width: 300px;
+           height: 450px;
+           border-radius: 10px;
+       }
+       .p1{
+    font-size: 24px;
+    font-family: "GB";
+    color: grey;
+}
+    .qk{
+        font-size: 15px;
+        font-family: "SF-2";
+    }
+           .p2{
+    font-size:24px;
+    font-family: "GB";
+    padding-left: 72px;
+    color: grey;
+}
+    .p3{
+    font-size: 24px;
+    font-family: "GB";
+    padding-left: 125px;
+    color: grey;
+    
+}
+         .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 18px;
+}
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+}
+
+@media screen and (min-width: 375px){
+    .yo{
+        margin-bottom: 20px;
+    }
+    .my-iframe{
+           width: 315px;
+           height: 450px;
+      
+           border-radius: 10px;
+       }
+    .margin-1{
+           margin-bottom: 20px;
+       }
+       .my-photo{
+    width: 335px;
+    height: 335px;
+} 
+    .bb{
+        display:block;
+    }
+    .p1{
+    font-size: 25px;
+    font-family: "GB";
+    color: grey;
+}
+    
+    .p2{
+    font-size: 25px;
+    font-family: "GB";
+    padding-left: 75px;
+    color: grey;
+}
+    .p3{
+    font-size: 25px;
+    font-family: "GB";
+    padding-left: 130px;
+    color: grey;
+    
+    }
+           .card{
+           width: 19.8rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+      .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 19px;
+}
+    .p5{
+        font-size: 18px;
+    }
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+.qk{
+        font-size: 17px;
+        font-family: "SF-2";
+    }
+    .intro{
+        padding-bottom:20px;
+    }
+}
+@media screen and (min-width: 411px){
+     .yo{
+        margin-bottom: 20px;
+    }
+           .card{
+           width: 22rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+    .my-photo{
+        width: 371px;
+        height: 371px;
+    }
+    .margin-1{
+           margin-bottom: 20px;
+       }
+    .p1{
+        font-size:27px;
+        font-family: "GB";
+        color: grey;
+    }
+        .p2{
+        font-size:27px;
+        font-family: "GB";
+        color: grey;
+            padding-left: 85px;
+    }
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+    .qk{
+        font-size: 18px;
+        font-family: "SF-2";
+    }
+           .my-iframe{
+           width: 355px;
+           height: 440px;
+           border-radius: 10px;
+       }
+  .p3{
+        font-size:27px;
+        font-family: "GB";
+        color: grey;
+            padding-left: 140px;
+    }
+    .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 19px;
+}
+}
+
+@media screen and (min-width: 414px){
+    .yo{
+        margin-bottom: 20px;
+    }
+    .my-photo{
+        width: 374px;
+        height: 374px;
+    }
+           .card{
+           width: 22rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+    .margin-1{
+           margin-bottom: 20px;
+       }
+    .qk{
+        font-size: 18px;
+        font-family: "SF-2";
+    }
+    .p1{
+    font-size: 28px;
+    font-family: "GB";
+    color: grey;
+}
+        .p2{
+    font-size: 28px;
+    font-family: "GB";
+    padding-left: 85px;
+    color: grey;
+}
+           .my-iframe{
+           width: 355px;
+           height: 440px;
+           border-radius: 10px;
+       }
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+    .p3{
+    font-size: 28px;
+    font-family: "GB";
+    padding-left: 145px;
+    color: grey;
+    
+}
+
+    .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 19px;
+}
+}
+@media screen and (min-width: 768px){
+  .my-photo{
+        width: 350px;
+        height: 350px;
+    }
+           .card{
+           width: 13.9rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+    
+    .p1{
+    font-size: 26px;
+    font-family: "GB";
+    color: grey;
+}
+      .my-iframe{
+           width: 320px;
+           height: 440px;
+           border-radius: 10px;
+       }
+        .p2{
+    font-size: 26px;
+    font-family: "GB";
+    padding-left: 79px;
+    color: grey;
+}
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+    .p3{
+    font-size: 26px;
+    font-family: "GB";
+    padding-left: 138px;
+    color: grey;
+    
+}
+            .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 13px;
+}
+}
+@media screen and (min-width: 1024px){
+        .p1{
+    font-size: 33px;
+    font-family: "GB";
+    color: grey;
+}
+.p2{
+    font-size: 33px;
+    font-family: "GB";
+    padding-left: 105px;
+    color: grey;
+}
+           .card{
+           width: 18rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+     .my-photo-1{
+         width: 350px;
+           height: 350px;
+       }
+      .my-iframe{
+           width: 420px;
+           height: 440px;
+           border-radius: 10px;
+       }
+        .p3{
+    font-size: 33px;
+    font-family: "GB";
+    padding-left: 175px;
+    color: grey;
+    
+}
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+        .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 17px;
+}
+    .my-photo{
+        width: 400px;
+        height: 400px;
+    }
+}
+@media screen and (min-width: 1366px){
+        .my-photo{
+        width: 500px;
+        height: 500px;
+    }
+          .p1{
+    font-size: 40px;
+    font-family: "GB";
+    color: grey;
+
+    }
+           .card{
+           width: 21rem;
+                padding-top: 30px;
+           padding-bottom: 30px;
+       }
+     .my-photo-1{
+         width: 300px;
+           height: 300px;
+       }
+.p2{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 122px;
+    color: grey;
+}
+        .p3{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 210px;
+    color: grey;
+    
+}
+      .my-iframe{
+           width: 500px;
+           height: 440px;
+           border-radius: 10px;
+       }
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+        .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 20px;
+}
+}
+    @media screen and (min-width: 1280px){
+         .my-photo{
+        width: 500px;
+        height: 500px;
+    }
+          .p1{
+    font-size: 40px;
+    font-family: "GB";
+    color: grey;
+
+        }
+               .card{
+           width: 22rem;
+                    padding-top: 30px;
+           padding-bottom: 30px;
+       }
+          .my-photo-1{
+         width: 300px;
+           height: 300px;
+       }
+.neural-photo{
+    width: 900px;
+    height: 350px;
+}
+          .my-iframe{
+           width: 500px;
+           height: 440px;
+           border-radius: 10px;
+       }
+.p2{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 122px;
+    color: grey;
+}
+        .p3{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 210px;
+    color: grey;
+    
+}
+        .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+        .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 20px;
+}
+}
+    @media screen and (min-width: 1440px){
+       .my-photo{
+    width: 500px;
+    height: 500px;
+}
+        
+.neural-photo{
+    width: 900px;
+    height: 400px;
+}
+               .card{
+           width: 22rem;
+                    padding-top: 30px;
+           padding-bottom: 30px;
+       }
+          .my-photo-1{
+         width: 310px;
+           height: 310px;
+       }
+        .p1{
+    font-size: 40px;
+    font-family: "GB";
+    color: grey;
+}
+             .definition{
+        
+            font-family:"GB";
+            font-size: 30px;
+        }
+.p2{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 125px;
+    color: grey;
+}
+          .my-iframe{
+           width: 500px;
+           height: 440px;
+           border-radius: 10px;
+       }
+        .p3{
+    font-size: 40px;
+    font-family: "GB";
+    padding-left: 210px;
+    color: grey;
+    
+}
+               .header-w{
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+        .p4{
+    color: grey;
+    font-family: "SF-2";
+    font-size: 20px;
+}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
