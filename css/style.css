@@ -11,6 +11,7 @@
     font-family: "SF-2";
 }
 .the-header{
+
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #1E558C;
@@ -18,9 +19,24 @@
     color: white;
 
 }
+.color-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+        background-color: #00B6E3;
+
+    
+}
 .send-message-btn:hover{
     background-color: #1E558C;
 
+}
+.img-header-12{
+    width: 320px;
+    height: 320px;
+    
+}
+.margin-header{
+    margin-top: 79px;
 }
 .send-message-btn{
         width: 130px;
@@ -100,6 +116,7 @@ padding-bottom: 5px;
 
 .major-1:hover{
     color: #1E558C;
+    background-color: aliceblue;
     -webkit-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
        -moz-box-shadow: -1px 9px 20px -12px  rgba(0,0,0,0.75);
        box-shadow: -1px 9px 20px -12px  rgba(0,0,blue,alpha);
@@ -177,7 +194,10 @@ font-family: "SF";
 .ppp{
 
     border-radius: 16px;
-   padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   padding-left: 30px;
+    padding-right: 30px;
     box-shadow:-1px 9px 20px -12px  rgba(0,0,0,0.75) ;
  }
 .my-footers{
@@ -248,9 +268,15 @@ padding-bottom: 5px;
 }
 .note1{
     font-family: "GB";
+    color: white;
 }
 .links{
     font-family: "SF-2";
+
+}
+.links1{
+    font-family: "SF-2";
+color: white;
 }
 .grey-color2{
     color: #245A8E;
@@ -323,10 +349,37 @@ padding-bottom: 5px;
     padding-top: 40px;
     padding-bottom:40px;
 }
+.my-work-1{
+    background-color: grey;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+.my-display{
+    color: white;
+    
+}
+.my-butto{
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1E558C;
+    color: white;
+    
+}
+.my-butto:hover{
+    background-color: #0F69C3;
+    box-shadow: 0px 9px 20px -10px  rgba(0,0,0,0.75) ;
+}
    @media screen and (min-width: 320px){
        .yo{
            margin-bottom: 20px;
        }
+       .my-work-1{
+    background-color: grey;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
        .my-photo-1{
          width: 250px;
            height: 250px;
@@ -392,7 +445,11 @@ padding-bottom: 5px;
 }
 }
 @media screen and (min-width: 360px){
-
+.my-work-1{
+    background-color: grey;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
     .yo{
         margin-bottom: 20px;
     }
@@ -456,9 +513,15 @@ padding-bottom: 5px;
 }
 
 @media screen and (min-width: 375px){
+    .my-work-1{
+    background-color: grey;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
     .yo{
         margin-bottom: 20px;
     }
+    
     .my-iframe{
            width: 315px;
            height: 450px;
@@ -480,7 +543,10 @@ padding-bottom: 5px;
     font-family: "GB";
     color: grey;
 }
-    
+    .img-header-12{
+        width: 375px;
+        height: 700px;
+    }
     .p2{
     font-size: 25px;
     font-family: "GB";
@@ -598,6 +664,17 @@ padding-bottom: 5px;
     .margin-1{
            margin-bottom: 20px;
        }
+    .img-header-12{
+        width: 400px;
+        height: 800px;
+        padding-bottom: 100px;
+    }
+    .eo{
+        font-family: "GB";
+        font-size: 30px;
+        
+        
+    }
     .qk{
         font-size: 18px;
         font-family: "SF-2";
@@ -645,6 +722,16 @@ padding-bottom: 5px;
   .my-photo{
         width: 350px;
         height: 350px;
+    }
+    
+    .img-header-12{
+        width: 768px;
+        height: 1100px;
+    }
+    .eo{
+        padding-bottom: 500px;
+        font-size: 50px;
+        font-family: "GB";
     }
            .card{
            width: 13.9rem;
@@ -695,6 +782,11 @@ padding-bottom: 5px;
     font-size: 33px;
     font-family: "GB";
     color: grey;
+}
+    .my-work-1{
+    background-color: grey;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 .p2{
     font-size: 33px;
@@ -753,6 +845,11 @@ padding-bottom: 5px;
     color: grey;
 
     }
+    .my-work-1{
+    background-color: grey;
+    padding-top: 290px;
+    padding-bottom: 290px;
+}
            .card{
            width: 21rem;
                 padding-top: 30px;
@@ -775,6 +872,9 @@ padding-bottom: 5px;
     color: grey;
     
 }
+    .eo{
+        padding-bottom: 300px;
+    }
       .my-iframe{
            width: 500px;
            height: 440px;
@@ -806,6 +906,11 @@ padding-bottom: 5px;
     color: grey;
 
         }
+        .my-work-1{
+    background-color: grey;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
                .card{
            width: 22rem;
                     padding-top: 30px;
@@ -857,7 +962,11 @@ padding-bottom: 5px;
     width: 500px;
     height: 500px;
 }
-        
+        .my-work-1{
+    background-color: grey;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
 .neural-photo{
     width: 900px;
     height: 400px;
@@ -899,6 +1008,7 @@ padding-bottom: 5px;
     color: grey;
     
 }
+        
                .header-w{
             padding-top: 50px;
             padding-bottom: 20px;
@@ -908,6 +1018,12 @@ padding-bottom: 5px;
     font-family: "SF-2";
     font-size: 20px;
 }
+        
+        .my-display{
+            color: white;
+            font-size: 60px;
+            padding-top: 30px;
+        }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
